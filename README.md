@@ -1,6 +1,9 @@
-### Hi there 👋
+<h1>Hello I'm Owen</h1>
+
+<h2>Cybersecurity Professional</h2><h4>Currently hold active CISSP, GPEN, GWAPT, GCIH, Security + certifications</h4>
 
 <!--
+
 **owenrousu/owenrousu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
