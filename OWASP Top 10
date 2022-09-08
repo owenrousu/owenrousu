@@ -1,1 +1,4 @@
 This series will cover OWASP top ten Application Secuirty Risks. I will walk through each risk and use a box from tryhackme.com or hackthebox.com to demonstrate the vulnerability.
+
+
+A01:2021 – Broken Access Control - roken Access Control is simply a scenario in which attackers can access, modify, delete or perform actions outside an application or systems' intended permissions.
